@@ -499,7 +499,7 @@ export default function LandingPage() {
             <div className="about-name">Akash Soni</div>
             <div className="about-role">Chief Gemmologist · RGTL</div>
             {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src="/signature.png" alt="Signature" className="about-sig" />
+
             <div>
               <span className="about-tag">Certified Gemmologist</span>
               <span className="about-tag">12+ Years</span>
